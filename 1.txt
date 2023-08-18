@@ -1,0 +1,3 @@
+下载命令：git clone https://github.com/cicvedu/rust-rustlings-KuaiSomeOne.git
+cargo安装：cargo install --force --path .
+查看待做的题目：rustlings list
